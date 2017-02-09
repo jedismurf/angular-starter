@@ -1,0 +1,11 @@
+{
+  "name": "angular-starter",
+  "version": "1.0.0",
+  "description": "An Angular Starter Template Package",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Altamirano",
+  "license": "ISC"
+}

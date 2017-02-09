@@ -1,0 +1,17 @@
+{
+  "name": "angular-starter",
+  "description": "An Angular Starter Template Package",
+  "main": "app/app.js",
+  "authors": [
+    "Frank Altamirano"
+  ],
+  "license": "ISC",
+  "homepage": "www.frank-altamirano.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
