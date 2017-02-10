@@ -7,8 +7,7 @@ angular.module('myApp.application', [])
         data: '<',
         config: '<'
     },
-    templateUrl: 'components/application.component.js',
+    templateUrl: 'components/application.component.html',
     controller: function(){
-
     }
-})
+});
