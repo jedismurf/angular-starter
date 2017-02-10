@@ -18,5 +18,5 @@ angular.module('myApp', [
     // ROUTER SERVICE CONFIGURATION
     $routeProvider
         .when('/', { template: '<application data="" config""></application>' })
-        .otherwise({redirectTo: '/'});
+        .otherwise({ redirectTo: '/' });
 }]);
